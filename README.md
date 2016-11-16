@@ -17,4 +17,4 @@ Reactive does what you tell it to do — no more, no less. It doesn't try to out
 
 ## License
 
-See the [LICENSE](https://github.com/ReactiveTeam/ReactiveMain/LICENSE) file.
+See the [LICENSE](https://github.com/ReactiveTeam/ReactiveMain/blob/master/LICENSE) file.
