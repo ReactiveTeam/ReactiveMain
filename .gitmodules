@@ -1,0 +1,12 @@
+[submodule "Reactive"]
+	path = Reactive
+	url = https://github.com/ReactiveTeam/Reactive
+[submodule "ReactiveUI"]
+	path = ReactiveUI
+	url = https://github.com/ReactiveTeam/ReactiveUI
+[submodule "ReactiveAI"]
+	path = ReactiveAI
+	url = https://github.com/ReactiveTeam/ReactiveAI
+[submodule "PluginCore"]
+	path = PluginCore
+	url = https://github.com/ReactiveTeam/PluginCore
