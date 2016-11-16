@@ -33,7 +33,7 @@ namespace TestPlugin
 
         public void Start()
         {
-            System.Windows.Forms.MessageBox.Show("Test");
+
         }
 
         public void Stop()

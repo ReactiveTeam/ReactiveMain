@@ -50,6 +50,10 @@
       <Project>{7b64048c-a733-4d60-961e-046b4cc0a013}</Project>
       <Name>PluginCore</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ReactiveUI\ReactiveUI.csproj">
+      <Project>{86e40c6d-5c6a-4efb-be34-80c87416eec0}</Project>
+      <Name>ReactiveUI</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
