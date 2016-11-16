@@ -1,6 +1,6 @@
-# Reactive
+﻿# Reactive
 
-[![Windows Build status](https://ci.appveyor.com/api/projects/status/uy46b51xk9k8uj8x?svg=true)](https://ci.appveyor.com/project/heywhite/reactivemain)]
+[![Windows Build status](https://ci.appveyor.com/api/projects/status/uy46b51xk9k8uj8x?svg=true)(https://ci.appveyor.com/project/heywhite/reactivemain)]
 
 Reactive is a modular program perfect for personal or organization use. Think of it like a shapeshifter. Reactive loads your module, renders it, and spits out a completely new app.
 
