@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginCore", "PluginCore\Pl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestPlugin", "TestPlugin\TestPlugin.csproj", "{7CEFBDAA-E56A-422D-AA77-A629528D8C5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveService", "ReactiveService\ReactiveService.csproj", "{B9E157ED-762F-4F1C-8A17-964516574143}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +62,14 @@ Global
 		{7CEFBDAA-E56A-422D-AA77-A629528D8C5E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7CEFBDAA-E56A-422D-AA77-A629528D8C5E}.Release|x64.ActiveCfg = Release|Any CPU
 		{7CEFBDAA-E56A-422D-AA77-A629528D8C5E}.Release|x64.Build.0 = Release|Any CPU
+		{B9E157ED-762F-4F1C-8A17-964516574143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E157ED-762F-4F1C-8A17-964516574143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E157ED-762F-4F1C-8A17-964516574143}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B9E157ED-762F-4F1C-8A17-964516574143}.Debug|x64.Build.0 = Debug|Any CPU
+		{B9E157ED-762F-4F1C-8A17-964516574143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E157ED-762F-4F1C-8A17-964516574143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E157ED-762F-4F1C-8A17-964516574143}.Release|x64.ActiveCfg = Release|Any CPU
+		{B9E157ED-762F-4F1C-8A17-964516574143}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

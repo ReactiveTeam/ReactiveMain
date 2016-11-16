@@ -10,3 +10,6 @@
 [submodule "PluginCore"]
 	path = PluginCore
 	url = https://github.com/ReactiveTeam/PluginCore
+[submodule "ReactiveService"]
+	path = ReactiveService
+	url = https://github.com/ReactiveTeam/ReactiveService
