@@ -1,6 +1,5 @@
 ﻿using PluginCore;
 using System.ComponentModel.Composition;
-using System;
 
 namespace TestPlugin
 {
@@ -33,17 +32,17 @@ namespace TestPlugin
 
         public void Start()
         {
-            ReactiveUI.GUI.MessageBox.ShowMessage("Test", "Hello World");
+            // Your code here
         }
 
         public void Stop()
         {
-            throw new NotImplementedException();
+            // Your code here
         }
 
         public void Tick()
         {
-            throw new NotImplementedException();
+            // Your code here
         }
     }
 }
