@@ -33,7 +33,7 @@ namespace TestPlugin
 
         public void Start()
         {
-
+            ReactiveUI.GUI.MessageBox.ShowMessage("Test", "Hello World");
         }
 
         public void Stop()
