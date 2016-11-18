@@ -15,8 +15,8 @@ Reactive does what you tell it to do — no more, no less. It doesn't try to out
 ## Getting Started
 
 * [Download](https://github.com/ReactiveTeam/ReactiveMain/releases/) the executable
-* Read up about its [Usage](https://github.com/ReactiveTeam/ReactiveMain/wiki)
-* [Fork](https://github.com/ReactiveTeam/ReactiveMain/fork) and [Contribute](#) your own modifications
+* Read up about its [Usage](https://reactiveteam.github.io/ReactiveSite/index.html)
+* [Fork](https://github.com/ReactiveTeam/ReactiveMain/fork) and [Contribute](https://reactiveteam.github.io/ReactiveSite/articles/contributing.html) your own modifications
 * Have questions? [Email Us](mailto:haikalizz@prototypestd.cu.ma)
 
 ## License
