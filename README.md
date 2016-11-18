@@ -1,5 +1,6 @@
 ﻿# Reactive
 
+[![Join the chat at https://gitter.im/ReactiveTeam/Lobby](https://badges.gitter.im/ReactiveTeam/Lobby.svg)](https://gitter.im/ReactiveTeam/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Windows Build status](https://ci.appveyor.com/api/projects/status/uy46b51xk9k8uj8x?svg=true)](https://ci.appveyor.com/project/heywhite/reactivemain)
 
 Reactive is a modular program perfect for personal or organization use. Think of it like a shapeshifter. Reactive loads your module, renders it, and spits out a completely new app.
