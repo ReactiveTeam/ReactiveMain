@@ -1,11 +1,20 @@
 ﻿using PluginCore;
 using System.ComponentModel.Composition;
+using System;
 
 namespace TestPlugin
 {
     [Export(typeof(IPlugin))]
     public class TestPlugin : IPlugin
     {
+        public string navItem
+        {
+            get
+            {
+                return "TESTNAV";
+            }
+        }
+
         public string pluginAuthor
         {
             get
