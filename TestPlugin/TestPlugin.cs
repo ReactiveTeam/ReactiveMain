@@ -39,6 +39,14 @@ namespace TestPlugin
             }
         }
 
+        public string pluginVersion
+        {
+            get
+            {
+                return "1.0.0";
+            }
+        }
+
         public void Start()
         {
             // Your code here
