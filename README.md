@@ -10,7 +10,7 @@ Reactive is a modular program perfect for personal or organization use. Think of
 
 ## Philosophy
 
-Reactive does what you tell it to do — no more, no less. It doesn't try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Reactive gets out of your way and allows you to concentrate on what truly matters: your content.
+Reactive does what you tell it to do - no more, no less. It doesn't try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Reactive gets out of your way and allows you to concentrate on what truly matters: your content.
 
 ## Getting Started
 
