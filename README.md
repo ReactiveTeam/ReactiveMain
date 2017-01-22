@@ -1,4 +1,4 @@
-﻿# [![logo](https://raw.githubusercontent.com/ReactiveTeam/ReactiveMain/media/art/ReactiveLogo.png)](https://reactiveteam.github.io/ReactiveSite/index.html)
+﻿# [![logo](https://github.com/ReactiveTeam/ReactiveMain/raw/master/media/art/ReactiveLogo.png)](https://reactiveteam.github.io/ReactiveSite/index.html)
 
 [![Join the chat at https://gitter.im/ReactiveTeam/Lobby](https://badges.gitter.im/ReactiveTeam/Lobby.svg)](https://gitter.im/ReactiveTeam/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Windows Build status](https://ci.appveyor.com/api/projects/status/uy46b51xk9k8uj8x?svg=true)](https://ci.appveyor.com/project/heywhite/reactivemain)
