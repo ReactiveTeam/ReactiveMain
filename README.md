@@ -33,7 +33,7 @@ Reactive does what you tell it to do - no more, no less. It doesn't try to outsm
 
 ### Contributors
 
-[![Author](http://wsbadge.herokuapp.com/badge/Author-Haikal%20Izzuddin-orange.svg?style=flat-square)][https://github.com/webhaikal]
+[![Author](http://wsbadge.herokuapp.com/badge/Author-Haikal%20Izzuddin-orange.svg?style=flat-square)](https://github.com/webhaikal)
 
 ### License
 
