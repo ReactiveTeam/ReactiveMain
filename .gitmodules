@@ -20,3 +20,6 @@
 [submodule "openWord"]
 	path = openWord
 	url = https://github.com/ReactiveTeam/openWord
+[submodule "openMusic"]
+	path = openMusic
+	url = http://github.com/ReactiveTeam/openMusic

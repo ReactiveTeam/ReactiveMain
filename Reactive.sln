@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveService", "Reactive
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openWord", "openWord\openWord.csproj", "{833003FC-59A6-4191-9A79-C4AA69E2D804}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "openMusic", "openMusic\openMusic.csproj", "{04F68BDF-F89B-48B1-A4FC-3846AA709346}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,14 @@ Global
 		{833003FC-59A6-4191-9A79-C4AA69E2D804}.Release|Any CPU.Build.0 = Release|Any CPU
 		{833003FC-59A6-4191-9A79-C4AA69E2D804}.Release|x64.ActiveCfg = Release|x64
 		{833003FC-59A6-4191-9A79-C4AA69E2D804}.Release|x64.Build.0 = Release|x64
+		{04F68BDF-F89B-48B1-A4FC-3846AA709346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04F68BDF-F89B-48B1-A4FC-3846AA709346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04F68BDF-F89B-48B1-A4FC-3846AA709346}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{04F68BDF-F89B-48B1-A4FC-3846AA709346}.Debug|x64.Build.0 = Debug|Any CPU
+		{04F68BDF-F89B-48B1-A4FC-3846AA709346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04F68BDF-F89B-48B1-A4FC-3846AA709346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04F68BDF-F89B-48B1-A4FC-3846AA709346}.Release|x64.ActiveCfg = Release|Any CPU
+		{04F68BDF-F89B-48B1-A4FC-3846AA709346}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
