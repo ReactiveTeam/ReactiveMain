@@ -31,6 +31,9 @@ Reactive does what you tell it to do - no more, no less. It doesn't try to outsm
 * [Fork](https://github.com/ReactiveTeam/ReactiveMain/fork) and [Contribute](https://reactiveteam.github.io/ReactiveSite/articles/contributing.html) your own modifications
 * Have questions? [Email Us](mailto:haikalizz@prototypestd.cu.ma)
 
+### Feature Requests
+[![Feature Requests](http://feathub.com/ReactiveTeam/ReactiveMain?format=svg)](http://feathub.com/ReactiveTeam/ReactiveMain)
+
 ### Contributors
 
 [![Author](http://wsbadge.herokuapp.com/badge/Author-Haikal%20Izzuddin-orange.svg?style=flat-square)](https://github.com/webhaikal)
